@@ -1,3 +1,4 @@
 # apnacollege-temp
 This is my first Git repository.
-author- Ridham Gupta
+<br>
+Author- Ridham Gupta
